@@ -1,5 +1,0 @@
-construir /
-nbproject /
-build.xml
-manifest.mf
-* .form
